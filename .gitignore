@@ -1,0 +1,25 @@
+# Test and coverage artifacts
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+.ty/
+
+
+.venv/
+env/
+.vscode/
+__pycache__/
+*.pyc
+build/
+dist/
+wheels/
+*.egg-info/
+
+# local secrets
+.env
+.codex/.env
+.codex/tmp/
+.codex/memories/
